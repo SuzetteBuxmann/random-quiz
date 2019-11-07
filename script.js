@@ -126,7 +126,7 @@
 		3);
 	var q30 = new Question(
 		'"I\'m bored with it all" were the last words of which famous British person?',
-		['Queen Elizabeth II', 'Charles Darwin', 'Sir Winston Churchill', 'John Lennon'],
+		['Amy Winehouse', 'Charles Darwin', 'Sir Winston Churchill', 'John Lennon'],
 		2);
 	var q31 = new Question(
 		'In the Bible, what is the last word in the Old Testament?',
