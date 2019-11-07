@@ -182,7 +182,7 @@
 		for(var i = 0; i<this.answers.length; i++) {
 			//console.log(i+ ': ' +this.answers[i]);
 			var indexNum1 = parseInt(i)+1;
-			ansHTML += '' +indexNum1+ ': ' +this.answers[i]+ '<br>';
+			ansHTML += '[' +indexNum1+ '] ' +this.answers[i]+ '<br>';
 			document.querySelector('.answers').innerHTML = ansHTML;
 		}
 	}	
